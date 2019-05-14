@@ -1,0 +1,1110 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:03:20] "POST /registration HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:06:29] "POST /registration HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:07:17] "POST /registration HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:11:15] "POST /registration HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:24:03] "GET /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:24:38] "GET /image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 10:24:44] "GET /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:16:44] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:18:46] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:19:42] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:20:31] "POST /image HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:27:32] "POST /image HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:36:36] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:37:00] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:49:25] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:50:41] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:51:35] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:52:07] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:53:28] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:54:22] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:56:07] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:57:14] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 11:58:00] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 12:01:39] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:33:21] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:34:02] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:37:43] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:38:06] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:38:32] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:39:02] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:39:54] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:40:13] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:45:22] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:45:56] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:46:51] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:47:13] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:47:35] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:48:04] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:48:27] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\resources.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Restarting with stat
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 251-751-678
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 13:52:43] "POST /image HTTP/1.1" 500 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:10:29] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:15:06] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:17:51] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 74, in post
+    image.save(secure_filename(x.filename))
+NameError: name 'x' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:19:14] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 74, in post
+    image.save(os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(x.filename)))
+NameError: name 'x' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:20:05] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 74, in post
+    image.save(os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(x.filename)))
+NameError: name 'x' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:22:02] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 74, in post
+    image.save(secure_filename(x.filename))
+NameError: name 'x' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:22:59] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 74, in post
+    image.save(os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(x.filename)))
+NameError: name 'x' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:23:19] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:28:26] "POST /image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:33:53] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:34:27] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 79, in post
+    if filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS:
+NameError: name 'ALLOWED_EXTENSIONS' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:38:23] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 80, in post
+    if filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS:
+NameError: name 'ALLOWED_EXTENSIONS' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:38:59] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 80, in post
+    if filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS:
+NameError: name 'ALLOWED_EXTENSIONS' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:40:01] "POST /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 80, in post
+    if filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS:
+NameError: name 'ALLOWED_EXTENSIONS' is not defined
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:40:51] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:42:46] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:43:17] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 14:48:27] "POST /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:05:39] "GET /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:09:42] "GET /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 95, in get
+    print(send_file(index_path))
+  File "c:\program files\python37\lib\site-packages\flask\helpers.py", line 588, in send_file
+    file = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\static\\Communist_Party_of_Vietnam_flag_logo.svg.png'
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:10:19] "GET /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 98, in get
+    print(send_file(index_path))
+  File "c:\program files\python37\lib\site-packages\flask\helpers.py", line 588, in send_file
+    file = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\static\\Communist_Party_of_Vietnam_flag_logo.svg.png'
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:11:08] "GET /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:13:11] "GET /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 462, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 491, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\representations\json.py", line 21, in output_json
+    dumped = dumps(data, **settings) + "\n"
+  File "c:\program files\python37\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "c:\program files\python37\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\program files\python37\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "c:\program files\python37\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Response is not JSON serializable
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:13:38] "GET /image HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 462, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 491, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\representations\json.py", line 21, in output_json
+    dumped = dumps(data, **settings) + "\n"
+  File "c:\program files\python37\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "c:\program files\python37\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "c:\program files\python37\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "c:\program files\python37\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Response is not JSON serializable
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:24:14] "GET /image HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:47:28] "GET /image/fun HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 96, in get
+    return send_file(index_path)
+  File "c:\program files\python37\lib\site-packages\flask\helpers.py", line 588, in send_file
+    file = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\image\\fun'
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:49:35] "GET /image/fun HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 99, in get
+    return send_file(index_path)
+  File "c:\program files\python37\lib\site-packages\flask\helpers.py", line 588, in send_file
+    file = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\image\\fun'
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:50:12] "GET /image/fun HTTP/1.1" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 302, in run_wsgi
+    execute(self.server.app)
+  File "c:\program files\python37\lib\site-packages\werkzeug\serving.py", line 290, in execute
+    application_iter = app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2309, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2295, in wsgi_app
+    response = self.handle_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1741, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 269, in error_router
+    return original_handler(e)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\program files\python37\lib\site-packages\flask\_compat.py", line 34, in reraise
+    raise value.with_traceback(tb)
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\program files\python37\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "c:\program files\python37\lib\site-packages\flask_restful\__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\Thanh\Desktop\hoc\Flask_Excel_Image\resources.py", line 100, in get
+    return send_file(index_path)
+  File "c:\program files\python37\lib\site-packages\flask\helpers.py", line 588, in send_file
+    file = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Thanh\\Desktop\\hoc\\Flask_Excel_Image\\image\\fun'
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:50:51] "GET /image/fun.jpg HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:59:08] "GET /excel HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 15:59:15] "POST /excel HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:01:20] "POST /excel HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:01:45] "POST /excel HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:22:27] "GET /excel/ex1.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:22:48] "GET /excel/ex1.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:24:12] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:26:03] "GET /image/fun.jpg HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:28:38] "POST /excel/?= HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:29:20] "POST /excel HTTP/1.1" 200 -
+DEBUG:passlib.registry:registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2019 16:29:59] "POST /excel HTTP/1.1" 200 -
