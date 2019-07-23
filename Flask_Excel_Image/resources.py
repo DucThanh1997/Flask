@@ -57,12 +57,14 @@ class UserLogin(Resource):
         else:
             return {'message': 'Sai mạt khẩu'}, 500
 
+
 class TokenRefresh(Resource):
     @jwt_refresh_token_required
     def post(self):
         current_user = get_jwt_identity()
         access_token = create_access_token(identity=current_user, expires_delta=datetime.timedelta(hours=24))
         return {'access_token': access_token}
+
 
 class UploadImage(Resource):
     @jwt_required
@@ -98,6 +100,7 @@ class UploadImage(Resource):
         except:
             return jsonify({'message': 'Lỗi rồi'})
         return send_file(index_path)
+
 
 class Excel(Resource):
     @jwt_required

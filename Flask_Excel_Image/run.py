@@ -36,6 +36,7 @@ app.config['UPLOAD_FOLDER'] = Folder
 def create_tables():
     db.create_all()
 
+
 @jwt.token_in_blacklist_loader
 def check_if_token_in_blacklist(decrypted_token):
     jti = decrypted_token['jti']
